@@ -1,5 +1,6 @@
 # The silly but fun emojiGPT AI
 A llama2-chat finetuned LLM that only outputs emoji responses
+> :warning: **[Colab Pro](https://colab.research.google.com/signup) 9.99 monthly or plus required**: The example code below requires colab pro (high RAM option) as of 08/2023
 
 ## Technology
 - llama2 + LoRA + Google + ChatGPT
